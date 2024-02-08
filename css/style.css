@@ -1,0 +1,19 @@
+
+body {
+    background-color: rgb(172, 238, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#container {
+    margin: 2em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+#dice img {
+    margin-top: 1em;
+    border: 6px solid black;
+    border-radius: 5px;
+}
